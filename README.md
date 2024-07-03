@@ -30,7 +30,7 @@ mint(address receiver,uint256 amount)
 burn(address receiver,uint256 amount)
 
 // To transfer Tokens
-transfer (address receiver,uint256 amount)
+transfer (address recipient,uint256 amount)
 
 ```
 
